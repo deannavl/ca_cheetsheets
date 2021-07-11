@@ -1,0 +1,25 @@
+body {
+    background-color: teal;
+}
+
+table, th, td {
+    border: 1px solid white;
+    text-align: center;
+    color: whitesmoke
+  }
+
+  th {
+    font-weight: bold;
+    font-size: 24px;
+  }
+  h1 {
+      color: white;
+      font-size: 40px;
+  }
+  h2 {
+      color: white;
+      font-size: 30px;
+  }
+  h5 {
+      color: white
+  }
